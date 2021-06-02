@@ -10,6 +10,11 @@
       <module fileurl="file://$PROJECT_DIR$/kotlin05/kotlin05.iml" filepath="$PROJECT_DIR$/kotlin05/kotlin05.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/kotlinDemo.iml" filepath="$PROJECT_DIR$/.idea/kotlinDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/kotlinstudy/kotlinstudy.iml" filepath="$PROJECT_DIR$/kotlinstudy/kotlinstudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlinstudy06/kotlinstudy06.iml" filepath="$PROJECT_DIR$/kotlinstudy06/kotlinstudy06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlinstudy07/kotlinstudy07.iml" filepath="$PROJECT_DIR$/kotlinstudy07/kotlinstudy07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlinstudy08/kotlinstudy08.iml" filepath="$PROJECT_DIR$/kotlinstudy08/kotlinstudy08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlinstudy09/kotlinstudy09.iml" filepath="$PROJECT_DIR$/kotlinstudy09/kotlinstudy09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlinstudy10/kotlinstudy10.iml" filepath="$PROJECT_DIR$/kotlinstudy10/kotlinstudy10.iml" />
     </modules>
   </component>
 </project>
