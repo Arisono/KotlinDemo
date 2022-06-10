@@ -1,3 +1,5 @@
+package kotlin01
+
 fun main(){
 
     println("1");

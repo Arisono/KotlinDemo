@@ -3,11 +3,12 @@ data class Student(var name: String, val age: Int) {
     private val hobby = "music"
     val subject:String
     init {
-        println("initializing student")
+        println("initializing student name=$name")
         subject = "math"
     }
     constructor(_name: String):this(_name,10){
         score = 20
+        println("student constructor name=$name  age=$age")
     }
 
     override fun toString(): String {
