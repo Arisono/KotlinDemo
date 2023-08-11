@@ -21,6 +21,12 @@ public class MyJava {
      * @param args
      */
     public static void main(String[] args) {
+
+        String let="abcdjkldjfddsa85";
+
+        System.out.println("let="+let.substring(let.length()-4,let.length()));
+
+
         float i=9.08f;
         String d="20200909";
         System.out.println(""+d.substring(6,8));
